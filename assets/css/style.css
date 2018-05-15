@@ -1,0 +1,45 @@
+nav {
+  width: auto;
+}
+body {
+  background-image: url(../images/background.png);
+  height: 100%;
+  padding-bottom: 80px;
+  width: 100%;
+
+}
+
+.precontainer {
+  padding-bottom: 40px;
+}
+
+.container {
+  float: left;
+  position: static;
+  height: auto;
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-bottom: 40px;
+
+}
+
+.card-body {
+  position: sticky;
+}
+
+.clearFix::after{
+  content: "";
+  display: block;
+  clear: both;
+}
+
+#Nicole {
+  background-color: pink;
+  padding: 8px 0px 8px 16px;
+  position: absolute;
+}
+
+img {
+  float: left;
+  padding-right: 10px;
+}
