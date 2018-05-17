@@ -56,6 +56,36 @@ footer {
   height: 50px;
 }
 
-button {
-  background-color: pink;
+.pupboxone {
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
+
+.pupboxtwo {
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
+
+.pupboxthree {
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
+
+.pupboxfour {
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
+
+.pupboxfive {
+  padding-left: 30px;
+  padding-bottom: 10px;
+}
+
+.headpups {
+  color: #fff;
+  background: #4aaaa5;
+  position: static;
+  text-align: center;
+  margin-right: 10px;
+
 }
