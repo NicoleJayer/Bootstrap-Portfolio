@@ -1,10 +1,10 @@
 nav {
-  width: auto;
+  width: 100%;
 }
+
 body {
   background-image: url(../images/background.png);
   height: 100%;
-  padding-bottom: 80px;
   width: 100%;
 
 }
@@ -14,7 +14,6 @@ body {
 }
 
 .container {
-  float: left;
   position: static;
   height: auto;
   margin-top: 40px;
@@ -34,7 +33,7 @@ body {
 }
 
 #Nicole {
-  background-color: pink;
+  background-color: #4aaaa5;
   padding: 8px 0px 8px 16px;
   position: absolute;
 }
@@ -42,4 +41,17 @@ body {
 img {
   float: left;
   padding-right: 10px;
+}
+
+footer {
+  position: sticky;
+  padding: 30px 0;
+  clear: both;
+  font-size: 12px;
+  color: #fff;
+  color: #ccc;
+  text-align: center;
+  background: #666;
+  border-top: 8px solid #4aaaa5;
+  height: 50px;
 }
