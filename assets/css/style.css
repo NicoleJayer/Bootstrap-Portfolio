@@ -54,27 +54,27 @@ footer {
   height: 50px;
 }
 
-.pupboxone {
+#pupboxone {
   padding-left: 30px;
   padding-bottom: 30px;
 }
 
-.pupboxtwo {
+#pupboxtwo {
   padding-left: 30px;
   padding-bottom: 30px;
 }
 
-.pupboxthree {
+#pupboxthree {
   padding-left: 30px;
   padding-bottom: 30px;
 }
 
-.pupboxfour {
+#pupboxfour {
   padding-left: 30px;
   padding-bottom: 30px;
 }
 
-.pupboxfive {
+#pupboxfive {
   padding-left: 30px;
   padding-bottom: 10px;
 }
