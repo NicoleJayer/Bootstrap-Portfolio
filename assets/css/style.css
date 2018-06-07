@@ -10,6 +10,16 @@ body {
 
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #FFFFFF;
+    background-color: #1F497D;
+  }
+
 .container {
   position: static;
   padding-top: 30px;
