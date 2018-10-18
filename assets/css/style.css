@@ -3,9 +3,8 @@ nav {
 }
 
 body {
-  background-image: url(../images/background.png);
-  height: 100%;
-  width: 100%;
+  background-image: url(../images/burgerbackground.jpg);
+  
 
 
 }
@@ -106,6 +105,11 @@ footer {
 }
 
 #pupboxnine {
+  padding-left: 30px;
+  padding-bottom: 10px;
+}
+
+#pupboxten {
   padding-left: 30px;
   padding-bottom: 10px;
 }
